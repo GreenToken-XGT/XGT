@@ -15,10 +15,9 @@ Green Token 以 ReFi (Regenerative Finance，再生金融) 机制为核心，汇
 
 # 2️⃣ Green Token 基础信息
 
-![截屏2025-12-14 21.10.48.png](attachment:881c98b4-96db-4931-bac5-1745187b64d1:截屏2025-12-14_21.10.48.png)
+<img width="1516" height="846" alt="image" src="https://github.com/user-attachments/assets/c874df3b-19b8-470b-9c2e-2732c54e7107" />
 
-![image.png](attachment:3fd561a1-38f1-474f-8372-8e901e8d0e54:image.png)
+<img width="1916" height="1076" alt="image" src="https://github.com/user-attachments/assets/ec0bc0d8-cedb-480d-a62c-846e1e92702a" />
 
-![截屏2025-12-14 21.35.07.png](attachment:f21041c5-5b8f-46d3-94cf-00170e9dee5b:截屏2025-12-14_21.35.07.png)
 
 # 3️⃣ Green Token 已获得的认证与支持
