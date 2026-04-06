@@ -23,8 +23,7 @@ Green Token 以 ReFi (Regenerative Finance，再生金融) 机制为核心，汇
 
 # 3️⃣ Green Token 已获得的认证与支持
 
-<aside>
-🕌**穆斯林金融体系（Shariah Compliant）认证**
+🕌穆斯林金融体系（Shariah Compliant）认证
 
 **核心合作与支持机构👇**
 
